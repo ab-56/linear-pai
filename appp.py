@@ -64,4 +64,4 @@ if uploaded_file is not None:
         else:
             st.error("X and Y features cannot be the same!")
 
-           streamlit run linear_regression_app.py
+          
